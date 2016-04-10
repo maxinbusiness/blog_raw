@@ -18,6 +18,7 @@ github_username:  maxinbusiness
 # Build settings
 markdown: kramdown
 port: 8888
+comments: true
 
 permalink: none
 markdown_ext: "markdown,mkdown,mkdn,mkd,md,html"
